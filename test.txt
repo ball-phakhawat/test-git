@@ -1,3 +1,6 @@
 testfile_mygit
 testfile_mygit2
 itestfile_mygit2
+testfile_mygit3
+testfile_mygit3
+itestfile_mygit4
